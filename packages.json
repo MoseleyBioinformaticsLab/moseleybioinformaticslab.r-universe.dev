@@ -6,5 +6,9 @@
   {
     "package": "visualizationQualityControl",
     "url": "https://github.com/MoseleyBioinformaticsLab/visualizationQualityControl"
+  },
+  {
+    "package": "categoryCompare2",
+    "url": "https://github.com/MoseleyBioinformaticsLab/categoryCompare2"
   }
 ]
