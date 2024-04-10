@@ -1,18 +1,22 @@
 [
   {
     "package": "ICIKendallTau",
-    "url": "https://github.com/MoseleyBioinformaticsLab/ICIKendallTau"
+    "url": "https://github.com/MoseleyBioinformaticsLab/ICIKendallTau",
+    "branch" : "*release"
   },
   {
     "package": "visualizationQualityControl",
-    "url": "https://github.com/MoseleyBioinformaticsLab/visualizationQualityControl"
+    "url": "https://github.com/MoseleyBioinformaticsLab/visualizationQualityControl",
+    "branch" : "*release"
   },
   {
     "package": "categoryCompare2",
-    "url": "https://github.com/MoseleyBioinformaticsLab/categoryCompare2"
+    "url": "https://github.com/MoseleyBioinformaticsLab/categoryCompare2",
+    "branch" : "*release"
   },
   {
     "package": "ScanCentricPeakCharacterization",
-    "url": "https://github.com/MoseleyBioinformaticsLab/ScanCentricPeakCharacterization"
+    "url": "https://github.com/MoseleyBioinformaticsLab/ScanCentricPeakCharacterization",
+    "branch" : "*release"
   }
 ]
